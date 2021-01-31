@@ -43,3 +43,19 @@ The below table describes about the tourist places. Where it gives information a
 > To produce a mighty book, you must choose a mighty theme. *Herman Melville* <br />
 > It is perfectly okay to write garbage as long as you edit brilliantly. *C. J. Cherryh*
 
+***
+
+# Code Fencing
+> C is an imperative procedural language. It sometimes used as an intermediate language by implemantations of other languages.
+
+[click here to know about c](https://en.wikipedia.org/wiki/C_(programming_language))
+'''
+int main(){
+    int y = SOME_MACRO_REFERENCE;
+    INT X = 5 + 6;
+    cout << " Hello World! " << x << std::endl();
+}
+'''
+
+
+
