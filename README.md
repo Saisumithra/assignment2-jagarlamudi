@@ -58,5 +58,13 @@ int main(){
 }
 ~~~
 
+# Images of location
+
+| Location | Image |
+| -------- | ![Honolulu](Honolulu.jpg) |
+| -------- | ![Vali](Vail.jpg) |
+| -------- | ![Orlando](Orlando.jpg) |
+| -------- | ![Phoenix](Phoenix.jpg) |
+
 
 
