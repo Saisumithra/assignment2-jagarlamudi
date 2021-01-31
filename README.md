@@ -51,10 +51,10 @@ The below table describes about the tourist places. Where it gives information a
 [click here to know about c](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ~~~
-int main(){ <br />
-    int y = SOME_MACRO_REFERENCE; <br />
-    INT X = 5 + 6; <br />
-    cout << " Hello World! " << x << std::endl(); <br />
+int main(){ 
+    int y = SOME_MACRO_REFERENCE; 
+    INT X = 5 + 6; 
+    cout << " Hello World! " << x << std::endl(); 
 }
 ~~~
 
