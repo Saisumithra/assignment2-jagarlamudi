@@ -35,3 +35,11 @@ The below table describes about the tourist places. Where it gives information a
 | vali | 3 days | $300 |
 | Orlando | 2 days | $200 |
 | Phoenix | 4 days | $400 |
+
+***
+
+# Quotes
+> Prose is architecture, not interior decoration. *Ernest Hemingway*
+> To produce a mighty book, you must choose a mighty theme. *Herman Melville*
+> It is perfectly okay to write garbage as long as you edit brilliantly. *C. J. Cherryh*
+
