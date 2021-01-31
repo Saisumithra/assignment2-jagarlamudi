@@ -60,11 +60,12 @@ int main(){
 
 # Images of location
 
-| Location | Image |
+| Location |         Image             |
+| -------- |         -----             |
 | Honolulu | ![Honolulu](Honolulu.jpg) |
-| Vail | ![Vali](Vail.jpg) |
-| Orlando | ![Orlando](Orlando.jpg) |
-| Phoenix | ![Phoenix](Phoenix.jpg) |
+| Vail     | ![Vali](Vail.jpg)         |
+| Orlando  | ![Orlando](Orlando.jpg)   |
+| Phoenix  | ![Phoenix](Phoenix.jpg)   |
 
 
 
