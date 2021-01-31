@@ -39,7 +39,7 @@ The below table describes about the tourist places. Where it gives information a
 ***
 
 # Quotes
-> Prose is architecture, not interior decoration. *Ernest Hemingway*
-> To produce a mighty book, you must choose a mighty theme. *Herman Melville*
+> Prose is architecture, not interior decoration. *Ernest Hemingway*<br />
+> To produce a mighty book, you must choose a mighty theme. *Herman Melville* <br />
 > It is perfectly okay to write garbage as long as you edit brilliantly. *C. J. Cherryh*
 
