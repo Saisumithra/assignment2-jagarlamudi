@@ -29,12 +29,12 @@ All South **Indian** favourite dish is Biryani. It is a flavour of all spices an
 # Indicating About Places 
 The below table describes about the tourist places. Where it gives information about the location of place, number of days to be spent and the last about money to be expected per day.  
 
-| Location | Days | Money |
-| -------- | ---- | ----- |
-| Honolulu | 2 days | $200 |
-| vali | 3 days | $300 |
-| Orlando | 2 days | $200 |
-| Phoenix | 4 days | $400 |
+| Location |  Days   | Money |
+| -------- |  ----   | ----- |
+| Honolulu | 2 days  | $200  |
+| vali     | 3 days  | $300  |
+| Orlando  | 2 days  | $200  |
+| Phoenix  | 4 days  | $400  |
 
 ***
 
